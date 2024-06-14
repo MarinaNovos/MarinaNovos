@@ -10,8 +10,10 @@
 
 ### Glad to see you here!  
 Recently, I completed an educational program in data analytics, aiming to integrate advanced analytical methods into scientific research. This program provided me with skills in Python, SQL, Tableau, and more, and I continue to enhance my abilities by learning new Data Science tools.
+
 With 11 years of experience in biotechnology, materials science, and food science, I possess a broad range of knowledge and skills that I now intend to apply in the field of data analytics. Throughout my career, I have actively used various analytical tools and equipment for precise material characterization, which has allowed me to achieve high research results. My experience includes scientific data analysis and publications in leading international journals, providing a solid foundation for transitioning into a new field.
 One of the main motivations for my career change is my passion for data-driven decision-making. I am fascinated by how data can reveal patterns, provide insights, and drive innovation. Additionally, observing the increasing role of data in every industry, I decided to acquire skills that could bridge my scientific knowledge with modern analytical methods. This interest led me to study data analytics technologies, as I believe they have tremendous potential for advancing both scientific research and practical applications.
+
 I am enthusiastic about this new career path and look forward to applying my analytical skills to create innovative solutions in the field of data analytics.
 
 
