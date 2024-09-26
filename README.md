@@ -18,7 +18,7 @@ I am enthusiastic about this new career path and look forward to applying my ana
 
 
 - 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on science project, pharma project
+- 👯 I’m looking to collaborate on science project, pharma project and other
 
 
 <br/>  
