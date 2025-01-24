@@ -20,7 +20,7 @@ My primary motivation for transitioning into data analytics is my passion for da
 I am enthusiastic about this new career path and look forward to applying my analytical skills to create innovative solutions in the field of data analytics.
 
 
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on science project, pharma project and other
 
 
