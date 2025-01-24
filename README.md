@@ -34,13 +34,13 @@ I am enthusiastic about this new career path and look forward to applying my ana
   <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scikit-learn-icon.svg" alt="Scikit-learn" height="25" /></a>  
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-  <a href="https://catboost.ai/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/catboost-logo.svg" alt="CatBoost" height="25" /></a>  
-  <a href="https://lightgbm.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightgbm-logo.svg" alt="LightGBM" height="25" /></a>  
-  <a href="https://xgboost.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xgboost-logo.svg" alt="XGBoost" height="25" /></a>  
-  <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/huggingface-logo.svg" alt="Hugging Face" height="25" /></a>  
-</div>  
+ <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/800px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" height="25" /></a>  
+  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="TensorFlow" height="25" /></a>  
+  <a href="https://catboost.ai/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/CatBoost_logo.png" alt="CatBoost" height="25" /></a>  
+  <a href="https://lightgbm.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/LightGBM_logo.png" alt="LightGBM" height="25" /></a>  
+  <a href="https://xgboost.readthedocs.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/7/72/XGBoost_logo.png" alt="XGBoost" height="25" /></a>  
+  <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hugging_Face_logo.svg/800px-Hugging_Face_logo.svg.png" alt="Hugging Face" height="25" /></a>  
+</div>
 <br/>  
 
 -->
