@@ -10,11 +10,12 @@
 
 ### Glad to see you here!  
 Recently, I completed educational programs in data analytics and Data Science to integrate advanced analytical methods into scientific research. These programs equipped me with skills in Python, machine learning, SQL, Tableau, and other tools, which I continue to enhance by exploring new technologies and approaches in Data Science.
+
 With 11 years of experience in biotechnology and materials science, I possess extensive knowledge and skills that I now intend to apply in the field of data analytics. In my scientific work, I actively used analytical tools and equipment for precise material characterization and analyzed large datasets, publishing research results in international journals and successfully managing multidisciplinary projects. My experience includes leading projects and coordinating teams from various scientific and technical fields.
 
 Data analysis has always been an integral part of scientific research, and I see this as my advantage: I am now studying more advanced methods such as machine learning and Python to uncover hidden relationships, make predictions, and provide data-driven solutions.
 
-My primary motivation for transitioning into data analytics is my passion for data-driven decision-making. I am intrigued by how data analysis helps identify patterns, provide insights, and drive innovation. Observing the growing role of data analytics in various industries, I decided to complement my scientific knowledge with modern analytical methods that have enormous potential for both scientific research and practical applications. I am excited about this new career path and look forward to applying my analytical skills to create innovative solutions in the field of data analytics.
+My primary motivation for transitioning into data analytics is my passion for data-driven decision-making. I am intrigued by how data analysis helps identify patterns, provide insights, and drive innovation. Observing the growing role of data analytics in various industries, I decided to complement my scientific knowledge with modern analytical methods that have enormous potential for both scientific research and practical applications. 
 
 I am enthusiastic about this new career path and look forward to applying my analytical skills to create innovative solutions in the field of data analytics.
 
