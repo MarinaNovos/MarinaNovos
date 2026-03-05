@@ -42,21 +42,85 @@ My work has resulted in **49+ scientific publications (h-index 19)** and several
 
 <div align="center">
 
-<a href="https://www.python.org/"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="35"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="35"/></a>
-<a href="https://numpy.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="35"/></a>
-<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35"/></a>
-<a href="https://www.tensorflow.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="35"/></a>
+### Tech Stack
 
-<a href="https://www.postgresql.org/"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="35"/></a>
-<a href="https://www.mysql.com/"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="35"/></a>
+**Programming**
 
-<a href="https://github.com/"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="35"/></a>
+<a href="https://www.python.org/">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="30"/>
+</a>
 
-<a href="https://www.tableau.com/"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="35"/></a>
+Python
 
-<a href="https://www.langchain.com/"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35"/></a>
+---
 
+**Data Science & Machine Learning**
+
+<a href="https://pandas.pydata.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="30"/>
+</a>
+<a href="https://numpy.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="30"/>
+</a>
+<a href="https://scikit-learn.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30"/>
+</a>
+<a href="https://www.tensorflow.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="30"/>
+</a>
+
+Pandas • NumPy • Scikit-learn • TensorFlow  
+Machine Learning • Feature Engineering • Model Validation
+
+---
+
+**Data Analysis**
+
+Exploratory Data Analysis (EDA)  
+Statistical Analysis  
+Predictive Modeling
+
+---
+
+**Databases**
+
+<a href="https://www.postgresql.org/">
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="30"/>
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="30"/>
+</a>
+
+PostgreSQL • MySQL
+
+---
+
+**AI & Conversational Systems**
+
+LLM systems  
+Conversational AI  
+Voice agents  
+STT → LLM → TTS pipelines
+
+---
+
+**Visualization**
+
+<a href="https://www.tableau.com/">
+<img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="30"/>
+</a>
+
+Tableau • Data Visualization
+
+---
+
+**Tools**
+
+<a href="https://github.com/">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30"/>
+</a>
+
+Git • Jupyter Notebook
 </div>
 
 ---
