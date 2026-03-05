@@ -120,7 +120,7 @@ Tableau • Data Visualization
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30"/>
 </a>
 
-Git • Jupyter Notebook
+Git • Jupyter Notebook • VS Code
 </div>
 
 ---
