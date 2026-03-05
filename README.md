@@ -1,11 +1,11 @@
 ## Hi 👋 I'm Marina Novoselova
 
-AI Engineer • Data Scientist  
-PhD | Biomedical Research Background  
+AI Engineer • Data Scientist • Data Analytics  
+PhD | Biomedical Research Background  (11 years)
 
 Singapore  
 
-<a href="https://github.com/MarinaNovoselova">
+<a href="https://github.com/MarinaNovos">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -16,15 +16,15 @@ Singapore
 
 ### About
 
-I build **AI systems, machine learning models, and real-time conversational agents**.
+I work on **AI systems, machine learning, and data analytics**, building tools that transform complex data into reliable and practical solutions.
 
-Currently I work on **voice AI pipelines and evaluation frameworks**, developing speech-to-speech architectures (STT → LLM → TTS), multi-agent workflows, and automated testing tools for dialogue robustness and instruction compliance.
+Currently I develop **real-time conversational AI systems and voice agents**, including speech pipelines (STT → LLM → TTS), multi-agent workflows, and automated testing frameworks for dialogue robustness and instruction compliance.
 
-Before moving into applied AI, I spent **11+ years in biomedical research**, working on **biomaterials, drug delivery systems, and preclinical experimental platforms**. This experience involved experimental design, large-scale data analysis, and multidisciplinary research collaboration.
+In parallel, I work on **data science and analytics projects**, applying machine learning, statistical analysis, and exploratory data analysis to uncover patterns, build predictive models, and support data-driven decision making.
+
+Before moving into applied AI and data science, I spent **11+ years in biomedical research**, working on **biomaterials, drug delivery systems, and preclinical experimental platforms**. This experience involved experimental design, large-scale data analysis, and multidisciplinary research collaboration.
 
 My work has resulted in **49+ scientific publications (h-index 19)** and several patented biomedical technologies.
-
-I am particularly interested in **building reliable AI systems** and exploring how machine learning can support **scientific discovery, healthcare technologies, and data-driven research**.
 
 ---
 
@@ -32,9 +32,9 @@ I am particularly interested in **building reliable AI systems** and exploring h
 
 • Real-time conversational AI  
 • Voice agents and speech pipelines  
-• Multi-agent architectures  
+• Machine learning and predictive modeling  
+• Data analytics and exploratory data analysis  
 • LLM evaluation frameworks  
-• Machine learning and data analysis  
 
 ---
 
@@ -55,12 +55,11 @@ I am particularly interested in **building reliable AI systems** and exploring h
 
 ### Collaboration
 
-I’m open to collaborations in:
+I’m interested in collaborating on:
 
-• Applied AI and machine learning  
+• AI and machine learning projects  
+• Data science and analytics projects  
 • Conversational AI systems  
-• Data science projects  
-• AI applications in science and healthcare  
+• Applied AI in science and healthcare  
 
 ---
-
